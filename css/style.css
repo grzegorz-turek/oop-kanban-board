@@ -30,6 +30,8 @@ button { outline: none; background-color: white; text-decoration: none; border: 
 
 button:hover { background-color: gray; color: white; border: 1px solid gray; transition: 0.5s; }
 
+.btn-delete { margin-left: 5px; }
+
 .btn-delete:hover { background-color: red; color: white; border: 1px solid red; transition: 0.5s; }
 
 .create-column { margin-left: 10px; }
