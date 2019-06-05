@@ -1,0 +1,1 @@
+OOP exercise: Kanban Board: https://grzegorz-turek.github.io/oop-kanban-board/
